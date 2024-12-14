@@ -1,30 +1,52 @@
-
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+    color: #333;
 }
 .container {
-    max-width: 800px;
+    max-width: 900px;
     margin: 20px auto;
     background: #fff;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-h1, h2 {
-    color: #333;
-}
-.contact, .section {
+header {
+    text-align: center;
     margin-bottom: 20px;
 }
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    color: #444;
+}
+header p {
+    margin: 5px 0;
+    color: #555;
+}
+section {
+    margin-bottom: 20px;
+}
+section h2 {
+    font-size: 1.8em;
+    color: #444;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
 ul {
+    list-style-type: disc;
+    margin: 10px 0;
     padding-left: 20px;
 }
-.section-title {
-    font-size: 1.2em;
-    color: #444;
-    margin-bottom: 10px;
+ul li {
+    margin-bottom: 5px;
+}
+article h3 {
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 5px;
 }
