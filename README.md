@@ -1,6 +1,6 @@
 # Weston Nelson - Professional Resume Website 🌟
 
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fwestonnelson.github.io%2Fweston_nelson)](https://westonnelson.github.io/resume/)
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fwestonnelson.github.io%2Fresume)](https://westonnelson.github.io/resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/westonnelson)
 [![X](https://img.shields.io/badge/Follow%20Me-blue?logo=x&logoColor=white)](https://x.com/westonnelson)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/westonnelson)
