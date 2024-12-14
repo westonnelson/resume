@@ -19,12 +19,12 @@ header {
     margin-bottom: 20px;
 }
 header h1 {
-    margin: 0;
     font-size: 2.5em;
-    color: #444;
+    margin-bottom: 10px;
 }
 header p {
     margin: 5px 0;
+    font-size: 1.1em;
     color: #555;
 }
 section {
