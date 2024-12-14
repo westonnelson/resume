@@ -1,6 +1,6 @@
 # Weston Nelson - Professional Resume Website 🌟
 
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fwestonnelson.github.io%2Fweston_nelson)](https://westonnelson.github.io/weston_nelson/)
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fwestonnelson.github.io%2Fweston_nelson)](https://westonnelson.github.io/resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/westonnelson)
 [![X](https://img.shields.io/badge/Follow%20Me-blue?logo=x&logoColor=white)](https://x.com/westonnelson)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/westonnelson)
@@ -11,7 +11,7 @@ Welcome to my professional resume website, hosted via **GitHub Pages**. This pro
 
 ## 🌐 Live Website
 
-[View My Resume Online](https://westonnelson.github.io/weston_nelson/)
+[View My Resume Online](https://westonnelson.github.io/resume/)
 
 ---
 
@@ -26,7 +26,7 @@ As an innovative technology professional, I specialize in blockchain development
 
 ## 💬 Connect with Me
 
-- 🌐 [Website](https://westonnelson.github.io/weston_nelson/)
+- 🌐 [Website](https://westonnelson.github.io/resume/)
 - 💼 [LinkedIn](https://linkedin.com/westonnelson)
 - ✍️ [X](https://x.com/westonnelson)
 - 🖥️ [GitHub Profile](https://github.com/westonnelson)
